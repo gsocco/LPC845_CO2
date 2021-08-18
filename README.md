@@ -1,0 +1,2 @@
+# LPC845_CO2
+Proyecto de medidor de CO2 hecho con LPC845 y MH-Z19C
